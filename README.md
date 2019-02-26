@@ -4,7 +4,7 @@ This project was my submission for the final assignment in Computer Programming 
 
 The objective was to determine the distribution of times between successive “reverts” for bot-bot and human-human interactions on Wikipedia. (A revert occurs when an editor undoes the changes made by another editor.) This required constructing a network from the raw data and classifying each node in the network as one of three types (bot, human or vandal). 
 
-The main dataset for this assignment – provided by the professor as a `.txt` file – includes every article edit made on Romanian Wikipedia since it began until the end of 2006 (roughly 470,000 edits). 
+The main dataset for this assignment was a `.txt` file containing information about every article edit made on Romanian Wikipedia since it began until the end of 2006 (roughly 470,000 edits). 
 
 Files in this repository:
 -	[MY470_final_assignment.ipynb](MY470_final_assignment.ipynb): main Jupyter Notebook containing the assignment and results
