@@ -6,6 +6,8 @@ The objective was to use `Python` to determine the distribution of times between
 
 The main dataset for this assignment was a `.txt` file containing information about every article edit made on Romanian Wikipedia since it began until the end of 2006 (roughly 470,000 edits). 
 
+---
+
 Files in this repository:
 -	[MY470_final_assignment.ipynb](MY470_final_assignment.ipynb): this is the main Jupyter Notebook containing the assignment and results
 -	[utils.py](utils.py), [wiki_classify.py](wiki_classify.py), [wiki_interactions.py](wiki_interactions.py), [wiki_setup.py](wiki_setup.py): the `.py` files contain code for helping functions used in the assignment
