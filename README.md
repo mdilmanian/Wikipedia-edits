@@ -9,6 +9,6 @@ The main dataset for this assignment was a `.txt` file containing information ab
 ---
 
 Files in this repository:
--	[final_assignment.ipynb](MY470_final_assignment.ipynb): this is the main Jupyter Notebook containing the assignment and results.
+-	[final_assignment.ipynb](final_assignment.ipynb): this is the main Jupyter Notebook containing the assignment and results.
 -	[utils.py](utils.py), [wiki_classify.py](wiki_classify.py), [wiki_interactions.py](wiki_interactions.py), [wiki_setup.py](wiki_setup.py): the files ending in `.py` contain code for helping functions used in the assignment.
 
